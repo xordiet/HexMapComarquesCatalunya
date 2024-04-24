@@ -1,6 +1,8 @@
 # HexMapComarquesCatalunya
 Mapa de Catalunya amb les comarques representades com a hexàgons
 
+![Mapa comarcal de Catalunya d'hexàgons](hexmap.png)
+
 ## Versió 2.0
 Versió que incorpora la comarca del lluçanès
 
